@@ -4,7 +4,7 @@ class BlankPiece extends Component {
     render() {
         return(
             <div>
-              BP
+
             </div>
         )
     }
